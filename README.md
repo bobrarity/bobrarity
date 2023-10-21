@@ -5,4 +5,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobrarity&show_icons=true&locale=en&layout=compact" alt="bobrarity" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobrarity&show_icons=true&locale=en" alt="bobrarity" /></p>
+
