@@ -1,5 +1,3 @@
-![Header](./gh.png)
-
 <h1>Abdurakhmanov's Data Science Journey 🚀</h1>
 
 <img src="./gh.png" alt="Header" />
@@ -9,7 +7,7 @@
 <h2>👨‍💻 Programming Languages & Frameworks:</h2>
 
 <ul>
-  <li>Python (including libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong>, <strong>Scikit-learn</strong> etc.)</li>
+  <li>Python (including libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong>, <strong>Scikit-learn</strong>, <strong>pytorch</strong> etc.)</li>
   <li>C++</li>
   <li>Java</li>
   <li>Web Development: HTML5/CSS3, Django, Bootstrap</li>
