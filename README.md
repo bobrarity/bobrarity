@@ -7,7 +7,8 @@
 <h2>👨‍💻 Programming Languages & Frameworks:</h2>
 
 <ul>
-  <li>Python (including libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong>, <strong>Scikit-learn</strong>, <strong>pytorch</strong> etc.)</li>
+  <li>Python (including libraries like <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong>, <strong>Scikit-learn</strong>, <strong>Pytorch</strong> etc.)</li>
+  <li>SQL</li>
   <li>C++</li>
   <li>Java</li>
   <li>Web Development: HTML5/CSS3, Django, Bootstrap</li>
@@ -36,4 +37,4 @@
   <li>Enthusiast in chess, appreciating the complex problem-solving and strategic planning it involves.</li>
 </ul>
 
-<p>Do you relate to my story, or want to know more about my background? I'd love to connect with you on <a href="https://www.linkedin.com/in/abdurakhmanovbobokhon/">LinkedIn</a>! You can also reach me at: abdurakhmanovbobokhon@gmail.com</p>
+<p>Do you relate to my story, or want to know more about my background? I'd love to connect with you on <a href="https://www.linkedin.com/in/bobokhon-abdurakhmanov/">LinkedIn</a>! You can also reach me at: abdurakhmanovbobokhon@gmail.com</p>
