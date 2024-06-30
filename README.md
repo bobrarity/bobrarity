@@ -8,4 +8,4 @@ What excites me most about this field is the endless opportunity for discovery a
 
 My goal is to evolve into a lead role 👑, where I can not only contribute to breakthroughs in data analysis and machine learning but also mentor and inspire future data scientists and machine learning engineers 🚀. This journey, for me, is not just about technical mastery but about harnessing the power of data and machine learning to make a real difference 🌟.
 
-Do you relate to my story, or want to know more about my background? I'd love to connect with you on <a href='https://www.linkedin.com/in/bobokhon-abdurakhmanov/' target='_blank'>LinkedIn</a>! You can also reach me at: abdurakhmanovbobokhon@gmail.com</p>
+Do you relate to my story, or want to know more about my background? I'd love to connect with you on <a href='https://www.linkedin.com/in/bobokhon-abdurakhmanov/' target='_blank' rel='noopener noreferrer'>LinkedIn</a>! You can also reach me at: abdurakhmanovbobokhon@gmail.com</p>
