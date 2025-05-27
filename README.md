@@ -1,11 +1,19 @@
-<h1>Abdurakhmanov's Data Science | ML Engineering Journey 🚀</h1>
+<h1>Bob's ML Engineering Journey 🚀</h1>
 
 <img src="./gh.png" alt="Header" />
 
-<p>Ever since I was young, I've been fascinated by the power of machine learning and its potential to shape our world 🌍. My journey into machine learning began in university 🎓, where I was captivated by the power of algorithms and the possibilities of machine learning 🤖.
+<p>Data Scientist | Machine Learning Engineer
 
-What excites me most about this field is the endless opportunity for discovery and innovation 🔍. As a data scientist 👨‍💻, I'm driven by the challenge of transforming complex data into meaningful insights 🔎. On the machine learning side, I love developing models that can learn from data and make accurate predictions 🧠.
+I don’t just build models — I work to understand the data, the context, and the problem. For me, good machine learning starts with knowing what the data represents and why it matters. That’s what makes solutions useful.
 
-My goal is to evolve into a lead role 👑, where I can not only contribute to breakthroughs in data analysis and machine learning but also mentor and inspire future data scientists and machine learning engineers 🚀. This journey, for me, is not just about technical mastery but about harnessing the power of data and machine learning to make a real difference 🌟.
+What I do:
+Some days I’m tuning models. Other days I’m digging into a new domain to understand its data. I’ve also mentored interns, run interviews, and helped build teams. I enjoy that just as much as the technical work.
 
-Do you relate to my story, or want to know more about my background? I'd love to connect with you on <a href='https://www.linkedin.com/in/bobokhon-abdurakhmanov/'>LinkedIn</a>! You can also reach me at: abdurakhmanovbobokhon@gmail.com</p>
+What I’m focusing on:
+I’m getting deeper into ML research to sharpen my skills and stay current. I’m also looking to take on more leadership — guiding teams and helping others grow in this space.
+
+See my work:
+github.com/bobrarity
+
+Let’s talk:
+abdurakhmanovbobokhon@gmail.com</p>
